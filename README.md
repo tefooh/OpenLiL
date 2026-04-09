@@ -63,4 +63,4 @@ MIT — fully open source. See [LICENSE](LICENSE).
 
 ---
 
-*Built with ❤️ and llama.rn*
+*Built by MTarif www.mtarif.com*
