@@ -1,12 +1,12 @@
 # OpenLiL AI
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="OpenLiL Mobile Screenshot" width="220" />
+</p>
+
 **Run AI locally. No accounts. No subscriptions. No internet (after model download).**
 
 OpenLiL is a minimal, open-source mobile app that runs small language models (< 1B parameters) entirely on your device. No servers. No tracking. No cost.
-
-<p align="center">
-	<img src="assets/screenshot.png" alt="OpenLiL app screenshot" width="260" />
-</p>
 
 ## Features
 
