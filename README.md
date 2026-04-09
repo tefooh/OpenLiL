@@ -51,6 +51,10 @@ npx expo run:ios
 npx expo run:android
 ```
 
+## Screenshots
+
+![OpenLiL app screenshot](assets/screenshot.png)
+
 ## Model Licenses
 
 - **Qwen 2.5**: Qwen License (Apache-compatible for personal use)
