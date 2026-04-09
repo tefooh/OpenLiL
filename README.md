@@ -4,6 +4,10 @@
 
 OpenLiL is a minimal, open-source mobile app that runs small language models (< 1B parameters) entirely on your device. No servers. No tracking. No cost.
 
+<p align="center">
+	<img src="assets/screenshot.png" alt="OpenLiL app screenshot" width="260" />
+</p>
+
 ## Features
 
 - 🧠 **100% on-device AI** — All inference runs locally via llama.cpp
@@ -51,9 +55,7 @@ npx expo run:ios
 npx expo run:android
 ```
 
-## Screenshots
-
-![OpenLiL app screenshot](assets/screenshot.png)
+<!-- screenshots moved to top intro -->
 
 ## Model Licenses
 
